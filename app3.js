@@ -8,9 +8,9 @@ const http = new EasyHTTP;
 
 // Post data
 const data = {
-    name: 'Spencer Barriball',
-    username: '5pence',
-    email: 'sbarriball@me.com'
+    name: 'Spencer',
+    username: 'waffle',
+    email: 'whosthat@me.com'
 }
 
 // http.post('https://jsonplaceholder.typicode.com/users', data)
